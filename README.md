@@ -10,7 +10,7 @@ Skills: Node / React / Express / JS / HTML / CSS
 - 💬 Ask me about React or Express 
 - 📫 How to reach me: alphaseinor@gmail.com 
 - 😄 Pronouns: He/Him/Hey You 
-- ⚡ Fun fact: I own a VW Golf with over 500,000 miles, and this isn't my first VW with that many miles.  
+- ⚡ Fun fact: I have built my own 8 bit sound card for an XT class IBM compatible.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alphaseinor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brian-hague-7441908/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/alphaseinor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](brianhague.dev)  
