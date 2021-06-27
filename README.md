@@ -1,16 +1,16 @@
 ### Hi there 👋, my name is Brian Hague
-#### I am a full stack developer
+#### I am a full stack senior developer at Nexient
 You will find something for everyone here, I have quite a few repos with example code, and solutions for common issues. 
 
-Skills: Node / React / Express / JS / HTML / CSS
+Skills: Node / React / Vue / Express / JS / HTML / CSS
 
-- 🔭 I’m currently working on My Portfolio in Node and Express 
-- 🌱 I’m currently learning React Query 
-- 👯 I’m looking to collaborate on Business Applications 
+- 🔭 I’m currently working on Car-Control in my spare time
+- 🌱 I’m currently learning Vue and Vuex
+- 👯 I’m looking to collaborate on controling automotive electrical systems via REST APIs
 - 💬 Ask me about React or Express 
 - 📫 How to reach me: alphaseinor@gmail.com 
 - 😄 Pronouns: He/Him/Hey You 
-- ⚡ Fun fact: I have built my own 8 bit sound card for an XT class IBM compatible.
+- ⚡ Fun fact: I have built my own 8 bit sound card for an XT class IBM compatible, and can network stream movies at over 30FPS on CGA's 480x200 2 bit mode
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alphaseinor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brian-hague)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/alphaseinor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](brianhague.dev)  
